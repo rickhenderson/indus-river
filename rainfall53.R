@@ -1,7 +1,8 @@
-# indus.R
-# Indus River Sub-Basis Data Analysis
+# rainfall53.R
+# Indus River Sub-Basin Data Analysis
 # Web source for yearly data at:
 # https://github.com/rickhenderson/indus-river/blob/master/yearly.csv
+# Only generates a basic plot at this time.
 
 yearly_data <- read.csv("yearly.csv")
 
