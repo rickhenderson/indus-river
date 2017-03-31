@@ -12,6 +12,11 @@ This project originally started when answering a question on an Internet forum a
 
 The Visual Basic for Applications (VBA) was the first code written to perform the analysis, and the heat map was generated using conditional formatting in an Excel worksheet.
 
+### The Heatmap
+Shown here is a screenshot of the top portion of the complete heatmap.
+
+<img src="rainfall53-sample-heatmap.png">
+
 ## Analysis Code
 <a href="rainfall53.bas">rainfall53.bas</a> - the original VBA code that generated data on an Excel worksheet that could be used to make a heatmap using Excel's Conditional Formatting feature.
 
