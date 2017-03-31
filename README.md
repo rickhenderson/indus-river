@@ -1,6 +1,8 @@
 # Indus River Rainfall over 53 Years
 A collection of data and analyses based on the Indus River in Pakistan.
 
+<img src="images/rainfall53-barchart-linear-regression.png">
+
 Data Description: 53 years of daily rainfall readings from the sub-basin of the Indus River in Pakistan. Measurements are in m3/s (cumecs).
 
 <a href="yearly.csv">yearly.csv</a> - Yearly totals calculated from the original dataset.
